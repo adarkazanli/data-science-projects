@@ -218,7 +218,7 @@ notebook-shim==0.2.3
     # via
     #   jupyterlab
     #   notebook
-numpy==1.26.1
+numpy
     # via
     #   blis
     #   contourpy
@@ -283,7 +283,7 @@ pure-eval==0.2.2
     # via stack-data
 py4j==0.10.9.7
     # via hyperopt
-pyarrow==13.0.0
+pyarrow
     # via -r requirements.piptools
 pycparser==2.21
     # via cffi
